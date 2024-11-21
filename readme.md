@@ -9,6 +9,16 @@ Lista de recursos a importar de la cuenta #471112631123 us-east-1 :
  - IAM Role: role-node-app
  - S3 Bucket: node-app-backup
 
+## Video con la implementacion:
+
+<div>
+    <a href="https://www.loom.com/share/c41d3706cbf048c7a5675d5bfbec7aef">
+      <p>Ej-02-terraform - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/c41d3706cbf048c7a5675d5bfbec7aef">
+      <img style="max-width:450px;" src="https://cdn.loom.com/sessions/thumbnails/c41d3706cbf048c7a5675d5bfbec7aef-87bcb994edc2f867-full-play.gif">
+    </a>
+  </div>
 
 ## Como desplegar.
 
